@@ -1,0 +1,87 @@
+<!-- Defines the accepted ontologies for BioPortal -->
+<osgiDependencies>
+    <dependency package="org.isaagents.isacreator.plugins"/>
+    <dependency package="uk.ac.ebi.utils.xml"/>
+    <dependency package="uk.ac.ebi.utils.io"/>
+    <dependency package="uk.ac.ebi.utils.xml"/>
+    <dependency package="org.isaagents.isacreator.ontologymanager.common"/>
+    <dependency package="org.isaagents.isacreator.ontologymanager"/>
+    <dependency package="org.isaagents.isacreator.io.importisa"/>
+    <dependency package="org.isaagents.isacreator.plugins.registries"/>
+    <dependency package="org.isaagents.isacreator.plugins.host.service"/>
+    <dependency package="org.isaagents.isacreator.configuration.io"/>
+    <dependency package="org.isaagents.isacreator.model"/>
+    <dependency package="org.isaagents.isacreator.api.utils"/>
+    <dependency package="org.isaagents.isacreator.spreadsheet.model"/>
+    <dependency package="org.isaagents.isacreator.managers"/>
+    <dependency package="org.isaagents.isacreator.gui"/>
+    <dependency package="org.isaagents.isacreator.common"/>
+    <dependency package="org.isaagents.errorreporter.ui"/>
+    <dependency package="org.apache.xmlbeans"/>
+    <dependency package="org.apache.log4j"/>
+    <dependency package="org.apache.log4j.spi"/>
+    <dependency package="org.isaagents.isatab.configurator.schema"/>
+    <dependency package="org.isaagents.isacreator.effects"/>
+    <dependency package="org.isaagents.isacreator.spreadsheet"/>
+    <dependency package="org.isaagents.isacreator.apiutils"/>
+    <dependency package="org.isaagents.isacreator.configuration"/>
+    <dependency package="org.isaagents.errorreporter.ui.borders"/>
+    <dependency package="com.sun.awt"/>
+    <dependency package="uk.ac.ebi.utils.collections"/>
+    <dependency package="org.jdesktop.fuse"/>
+    <dependency package="org.isaagents.isacreator.gui.menu"/>
+    <dependency package="org.isaagents.isatab.isaconfigurator"/>
+    <dependency package="com.explodingpixels.macwidgets"/>
+    <dependency package="org.isaagents.isacreator.io.importisa.errorhandling.exceptions"/>
+    <dependency package="org.apache.commons.logging"/>
+    <dependency package="org.isaagents.isacreator.ontologyselectionagent"/>
+    <dependency package="org.apache.commons.collections15"/>
+    <dependency package="org.apache.commons.collections15.multimap"/>
+    <dependency package="org.isaagents.macros.plugin.workflowvisualization.graph"/>
+    <dependency package="org.apache.commons.collections15.set"/>
+    <dependency package="org.isaagents.isacreator.visualization.tree"/>
+    <dependency package="org.isaagents.isacreator.effects.borders"/>
+    <dependency package="org.isaagents.errorreporter.model"/>
+    <dependency package="org.isaagents.isacreator.autofilteringlist"/>
+    <dependency package="org.isaagents.errorreporter.ui.utils"/>
+    <dependency package="org.apache.commons.collections15.map"/>
+    <dependency package="org.isaagents.isacreator.common.CustomMenuItemUI"/>
+
+    
+    <!-- needed for JDK7 -->
+    <dependency package="javax.swing"/>
+    <dependency package="javax.swing.text"/>
+    <dependency package="javax.swing.tree"/>
+    <dependency package="javax.swing.table"/>
+    <dependency package="javax.swing.event"/>
+    <dependency package="javax.swing.border"/>
+    <dependency package="javax.management"/>
+    <dependency package="javax.naming"/>
+    <dependency package="javax.crypto"/>
+    <dependency package="javax.crypto.spec"/>
+    <dependency package="javax.net.ssl"/>
+    <dependency package="javax.security.auth.x500"/>
+        
+    <dependency package="javax.xml.transform.dom"/>
+    <dependency package="javax.xml.transform.stream"/>
+    <dependency package="javax.xml.parsers"/>
+    <dependency package="javax.xml.datatype"/>
+    <dependency package="javax.xml.xpath"/>
+    <dependency package="javax.xml.transform"/>
+    <dependency package="javax.xml.transform.sax"/>
+    <dependency package="javax.xml.validation"/>
+    <dependency package="javax.xml.namespace"/>
+
+    <dependency package="org.w3c.dom"/>
+    <dependency package="org.w3c.dom.traversal"/>
+    <dependency package="org.w3c.dom.ranges"/>
+    <dependency package="org.w3c.dom.ls"/>
+    <dependency package="org.w3c.dom.events"/>
+    
+    <dependency package="org.xml.sax"/>
+    <dependency package="org.xml.sax.ext"/>
+    <dependency package="org.xml.sax.helpers"/>
+    <dependency package="org.ietf.jgss"/>
+
+
+</osgiDependencies>
